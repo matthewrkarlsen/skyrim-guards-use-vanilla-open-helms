@@ -1,0 +1,51 @@
+
+Mod Name: Guards Use Vanilla Open Helms
+
+Version: 0.1.1b
+
+Author: Matthew R. Karlsen (quixoticynic)
+
+Q. What does "Guards Use Vanilla Open Helms" actually do?
+
+Guards now use open-faced helmets present in the original game. Most guards use hide helmets. Guards from Hjaalmarch use Imperial helmets. Guards from The Reach use scaled helmets. Guards from The Rift use leather helmets. Stormcloaks still use the original Stormcloak helmets.
+
+Q. Is this mod compatible with other guard-based mods?
+
+The mod should be compatible with almost any guard-based mod. I specifically only modified the helmet objects and not the guards themselves so that this would be the case. Simply load this mod after the other guard-based mods that you use.
+
+Q. Where does this mod need to be in my load order?
+
+The mod only changes the guard helmet objects, so pretty much anywhere in your load order is fine unless you have other mods that change the guard helmets, in which case this mod should be loaded later in the load order.
+
+Q. Where do I put the file if I choose to install manually?
+
+Place the .esp file in your Skyrim Data directory, such as "C:\Program Files\steam\steamapps\common\skyrim\Data\" or "C:\Program Files (x86)\steam\steamapps\common\skyrim\Data\".
+
+Q. Can I suggest improving the mod by doing x, y, or z?
+
+I would be interested in any suggestions. Please contact me via nexusmods.com, or e-mail me using the address firstname@lastname.me.uk (using my first and last names).
+
+Q. Can I report a bug?
+
+The mod is very simple and should be completely bug free. If you do experience problems then please contact me via nexusmods.com, or e-mail me using the address firstname@lastname.me.uk (using my first and last names).
+
+Q. Do you have any other mods?
+
+I have a mod called "PRUFEI" (http://www.nexusmods.com/skyrim/mods/54375/) which prevents smelting of equipped and favorite items in compatible mods. One of these compatible mods is "Elementary Smelting" (http://www.nexusmods.com/skyrim/mods/54378/) which enables smelting of practically any craftable metal item in Skyrim, Dawnguard, Hearthfire and Dragonborn. Additional files for Elementary Smelting also permit the breakdown of dragonscale-based armors and leather armors.
+
+I also have a mod called "An Anvil Is Not Enough" (http://www.nexusmods.com/skyrim/mods/54536/). The mod is a very simple immersion/realism fix. There are two main changes. Firstly, the game is altered such crafting items requires a full forge (an anvil by itself is not sufficient). Secondly, the use of smithing apparatus now requires the necessary tools (hammer, tongs and shovel).
+
+License:
+
+Formally, the mod is released under the BSD 2-Clause License:
+
+Copyright (c) 2014, Matthew R. Karlsen (quixoticynic)
+All rights reserved.
+
+Redistribution and use in source and binary forms, with or without modification, are permitted provided that the following conditions are met:
+
+1. Redistributions of source code must retain the above copyright notice, this list of conditions and the following disclaimer.
+
+2. Redistributions in binary form must reproduce the above copyright notice, this list of conditions and the following disclaimer in the documentation and/or other materials provided with the distribution.
+
+THIS SOFTWARE IS PROVIDED BY THE COPYRIGHT HOLDERS AND CONTRIBUTORS "AS IS" AND ANY EXPRESS OR IMPLIED WARRANTIES, INCLUDING, BUT NOT LIMITED TO, THE IMPLIED WARRANTIES OF MERCHANTABILITY AND FITNESS FOR A PARTICULAR PURPOSE ARE DISCLAIMED. IN NO EVENT SHALL THE COPYRIGHT HOLDER OR CONTRIBUTORS BE LIABLE FOR ANY DIRECT, INDIRECT, INCIDENTAL, SPECIAL, EXEMPLARY, OR CONSEQUENTIAL DAMAGES (INCLUDING, BUT NOT LIMITED TO, PROCUREMENT OF SUBSTITUTE GOODS OR SERVICES; LOSS OF USE, DATA, OR PROFITS; OR BUSINESS INTERRUPTION) HOWEVER CAUSED AND ON ANY THEORY OF LIABILITY, WHETHER IN CONTRACT, STRICT LIABILITY, OR TORT (INCLUDING NEGLIGENCE OR OTHERWISE) ARISING IN ANY WAY OUT OF THE USE OF THIS SOFTWARE, EVEN IF ADVISED OF THE POSSIBILITY OF SUCH DAMAGE.
